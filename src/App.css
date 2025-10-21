@@ -1,0 +1,13 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+.ticket-card:hover{
+    background-color: rgba(255, 255, 255, 0.495);
+    transform: translateY(2px);
+    transform: scale(1.01);
+}
+
+.menu:hover{
+    transform: scale(1.02);
+    background-color: lightsteelblue;
+}

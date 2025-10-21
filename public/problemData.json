@@ -1,0 +1,110 @@
+[
+    {
+        "id": "#1001",
+        "title": "Login Issues - Can't Access Account",
+        "description": "Customer is unable to log in to their account. They've tried resetting their password multiple times but still...",
+        "priority": "HIGH PRIORITY",
+        "status": "Open",
+        "assignee": "John Smith",
+        "date": "1/15/2024"
+    },
+    {
+        "id": "#1003",
+        "title": "Unable to Download Invoice",
+        "description": "Customer cannot download their January invoice from the billing section. The download button is...",
+        "priority": "MEDIUM PRIORITY",
+        "status": "In-Progress",
+        "assignee": "Michael Brown",
+        "date": "1/17/2024"
+    },
+    {
+        "id": "#1002",
+        "title": "Broken Link on Homepage Footer",
+        "description": "The 'Contact Us' link in the main site footer is redirecting to a 404 error page. Affects all users...",
+        "priority": "HIGH PRIORITY",
+        "status": "Open",
+        "assignee": "Jane Doe",
+        "date": "1/16/2024"
+    },
+    {
+        "id": "#1004",
+        "title": "Feature Request: Dark Mode Option",
+        "description": "Customer requests an option for a dark mode theme for better viewing in low-light conditions...",
+        "priority": "LOW PRIORITY",
+        "status": "In-Progress",
+        "assignee": "Michael Brown",
+        "date": "1/18/2024"
+    },
+    {
+        "id": "#1005",
+        "title": "Payment Processor Timeout Error",
+        "description": "Users are reporting intermittent errors during checkout where the payment transaction times out...",
+        "priority": "CRITICAL PRIORITY",
+        "status": "In-Progress",
+        "assignee": "John Smith",
+        "date": "1/19/2024"
+    },
+    {
+        "id": "#1006",
+        "title": "Typo in User Profile Settings",
+        "description": "There is a minor spelling error ('Adress' instead of 'Address') on the user profile editing page...",
+        "priority": "LOW PRIORITY",
+        "status": "Resolved",
+        "assignee": "Jane Doe",
+        "date": "1/20/2024"
+    },
+    {
+        "id": "#1007",
+        "title": "Mobile View Layout Distortion",
+        "description": "The main dashboard layout is broken on smaller mobile screens, particularly for iPhone SE users...",
+        "priority": "MEDIUM PRIORITY",
+        "status": "Open",
+        "assignee": "Sarah Connor",
+        "date": "1/21/2024"
+    },
+    {
+        "id": "#1008",
+        "title": "Data Export Failure (CSV)",
+        "description": "When attempting to export data to a CSV file from the reporting page, the file is empty or corrupted...",
+        "priority": "HIGH PRIORITY",
+        "status": "In-Progress",
+        "assignee": "John Smith",
+        "date": "1/22/2024"
+    },
+    {
+        "id": "#1009",
+        "title": "Documentation Update Needed",
+        "description": "The help center article on 'How to Integrate API' is outdated and needs to be revised for v2.1...",
+        "priority": "MEDIUM PRIORITY",
+        "status": "In-Progress",
+        "assignee": "Sarah Connor",
+        "date": "1/23/2024"
+    },
+    {
+        "id": "#1010",
+        "title": "Slow Loading on Analytics Page",
+        "description": "The primary analytics dashboard is taking 10+ seconds to load, impacting user experience...",
+        "priority": "CRITICAL PRIORITY",
+        "status": "Testing",
+        "assignee": "Michael Brown",
+        "date": "1/24/2024"
+    },
+    {
+        "id": "#1011",
+        "title": "Subscription Cancellation Error",
+        "description": "Users are receiving an error message when attempting to cancel their subscription through the portal...",
+        "priority": "HIGH PRIORITY",
+        "status": "Open",
+        "assignee": "Jane Doe",
+        "date": "1/25/2024"
+    },
+    {
+        "id": "#1012",
+        "title": "New User Onboarding Tutorial Bug",
+        "description": "The introductory tutorial for new users freezes on step 3 for approximately 20% of new accounts...",
+        "priority": "MEDIUM PRIORITY",
+        "status": "Resolved",
+        "assignee": "John Smith",
+        "date": "1/26/2024"
+    }
+]
